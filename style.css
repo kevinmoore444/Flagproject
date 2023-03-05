@@ -1,0 +1,23 @@
+.flag{
+    height: 700px;
+    width: 900px;
+    display: flex;
+    border: 2px solid black;
+}
+.column{
+    height: 700px;
+    width: 150px;
+    background-color: red;
+    border: 2px solid black;
+}
+.columnleaf{
+    height: 700px;
+    width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    height: 500px;
+}
